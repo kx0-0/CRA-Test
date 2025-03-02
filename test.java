@@ -10,6 +10,11 @@ public class test {
         return a + b;
     }
 
+    // Plus function (addition)
+    public static int mins(int a, int b) {
+        return a + b;
+    }
+
     public static void main(String[] args) {
         System.out.println("Hello World");
 
