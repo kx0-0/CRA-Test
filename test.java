@@ -12,7 +12,7 @@ public class test {
 
     // Plus function (addition)
     public static int mins(int a, int b) {
-        return a -- b;
+        return a - b;
     }
 
     public static void main(String[] args) {
